@@ -1,0 +1,22 @@
+-Tìm hiểu lambda, SQS, DynamoDB (OK)
+-Tạo function lambda tương tác được với Dynamodb (OK)
+-Tìm hiểu các cách send message SQSL: trực tiếp, CLI, Client (OK)
+-Tìm cách lấy data từ message trong queue gửi tới (OK) 
+-Gửi msg qua SQS --> trigger lambda --> thay đổi DB (OK) 
+-Lên ý tưởng fe, tạo giao diện (OK) 
+-Xây dựng khung project (OK)
+-Làm chức năng thêm (OK) 
+-Tìm cách lấy message từ SQS:
+SQS1 --> Lambda function --> SQS2 <--Client (OK)
+-Scan data từ Dynamodb và đổ vào giao diện (OK)
+-Làm chức năng sửa, xóa 
+-Làm chức năng tạo bảng xóa bảng
+-Làm thêm một table là TblFood --> Thêm xóa sửa
+-Làm chức năng tìm kiếm
+-Deploy source code lên EC2
+-Push hướng dẫn lên github
+
+Mở rộng:
+-Chức năng đăng xuất đăng nhập
+
+
